@@ -1,7 +1,7 @@
 /* Modifier le code ci dessous */
 
-document.getElementById("cliquezmoi").("", function(){
-    alert('Click')
-});
-
+function Click() {
+    document.getElementById("cliquezmoi");
+}
+    alert('Click');
 
